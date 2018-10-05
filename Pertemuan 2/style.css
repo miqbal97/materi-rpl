@@ -1,0 +1,45 @@
+.container {
+    margin: 0px 100px;
+    padding: 10px 30px;
+    background-color: white;
+}
+
+.judul {
+    margin: 2px auto;
+    color: darkviolet;
+}
+
+.deskripsi {
+    margin-top: 2px;
+    margin-bottom: 20px;
+    color: #41005d;
+}
+
+.navbar {
+    padding: 10px 0px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.navbar > a.navbar-item:first-child {
+    margin-left: 5px;
+}
+
+.navbar > a.navbar-item {
+    margin: auto 5px;
+    text-decoration: none;
+}
+
+.content {
+    margin: 30px auto;
+    padding: 0px 5px;
+}
+
+.footer {
+    margin: 2px 0px;
+    padding: 10px 0px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+    color: darkviolet;
+}
