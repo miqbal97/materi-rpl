@@ -43,3 +43,7 @@
     text-align: center;
     color: darkviolet;
 }
+
+.list_item > li {
+    margin-bottom: 10px;
+}
